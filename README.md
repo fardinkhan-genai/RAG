@@ -1,4 +1,4 @@
-# Simple RAG — Hybrid Retrieval-Augmented Generation
+# RAG — Hybrid Retrieval-Augmented Generation
 
 An end-to-end **Retrieval-Augmented Generation (RAG)** project built with **LangChain**, **Hugging Face embeddings**, **ChromaDB**, **BM25**, and **Ollama**.
 
