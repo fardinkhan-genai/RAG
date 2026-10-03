@@ -551,10 +551,6 @@ Potential next steps for the project include:
 
 **Fardin Khan**
 
-Data Science & Generative AI Learner
+Data Science & AI Engineer
 
 ---
-
-## License
-
-This project can be released under the MIT License if you choose to make it open source.
